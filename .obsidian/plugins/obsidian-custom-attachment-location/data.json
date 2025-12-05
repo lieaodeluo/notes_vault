@@ -17,7 +17,7 @@
   "renamedAttachmentFileName": "",
   "shouldConvertPastedImagesToJpeg": false,
   "shouldDeleteOrphanAttachments": false,
-  "shouldRenameAttachmentFiles": false,
+  "shouldRenameAttachmentFiles": true,
   "shouldRenameAttachmentFolder": true,
   "shouldRenameCollectedAttachments": false,
   "specialCharacters": "#^[]|*\\<>:?/",
