@@ -1,11 +1,5 @@
-# Linux 学习笔记：8.10.5 部分详解
-
-# （接上文）Linux学习笔记
-
 ### 8.10.5 netstat：显示网络状态和端口占用
-
 ```Bash
-
 netstat -anp  # 查看所有网络连接、端口、进程信息
 ```
 
@@ -17,21 +11,16 @@ netstat -anp  # 查看所有网络连接、端口、进程信息
 |-u|只看UDP|
 |-p|显示进程PID/名称|
 常用：
-
 ```Bash
-
 netstat -tulnp  # 查看监听中的端口
 netstat -anp | grep 端口号
 ```
-
 ---
-
 ## 9 软件包管理（RPM & YUM）
 
 ### 9.1 RPM
 
 - 红帽系包管理工具，类似Windows“exe/msi”
-
 - 只能安装已下载的包，**不会自动解决依赖**
 
 #### 查询
