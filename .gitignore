@@ -1,2 +1,25 @@
+# Obsidian workspace files
 .obsidian/workspace.json
 .obsidian/workspace-mobile.json
+
+# Obsidian config files
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/graph.json
+.obsidian/types.json
+.obsidian/community-plugins.json
+.obsidian/core-plugins.json
+
+# Plugin data (preserve manifests for sharing)
+.obsidian/plugins/**/data.json
+
+# Git credentials (sensitive)
+.obsidian/plugins/obsidian-git/git_credentials_input
+.obsidian/plugins/obsidian-git/git_credentials_input.response
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor config
+.vscode/
